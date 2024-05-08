@@ -1,0 +1,45 @@
+.loginform{
+    padding: 40px;
+    height: 600px;
+}
+.container{
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.logintext{
+    color: white;
+    font-family: serif;
+}
+
+.loginbtn{
+    font-family: serif;
+    background-color: rgb(186, 22, 22);
+}
+
+
+.loginbtn:hover {
+    font-family: serif;
+    background-color: white;
+    border-color: red;
+    color: red; /* Text color on hover */
+}
+
+.loginbtn:hover .logintext {
+    font-family: serif;
+    color: red; /* Text color of logintext on hover */
+}
+
+label{
+    font-family: serif;
+}
+
+
+input{
+    background-color: rgb(247, 243, 243);
+}
+
+
+
+
+
